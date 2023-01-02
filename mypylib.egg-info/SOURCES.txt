@@ -1,7 +1,7 @@
 README.md
 setup.py
 mypylib/__init__.py
-mypylib/mypyfunction.py
+mypylib/mypyfun.py
 mypylib.egg-info/PKG-INFO
 mypylib.egg-info/SOURCES.txt
 mypylib.egg-info/dependency_links.txt
